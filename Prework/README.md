@@ -15,10 +15,10 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [ ] UI animations
-* [ ] Remembering the bill amount across app restarts (if <10mins)
-* [ ] Using locale-specific currency and currency thousands separators.
-* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [TBI] UI animations
+* [TBI] Remembering the bill amount across app restarts (if <10mins)
+* [TBI] Using locale-specific currency and currency thousands separators.
+* [TBI] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following **additional** features are implemented:
 
@@ -28,17 +28,18 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+1.0 (First Implementation)
+![](https://i.imgur.com/NqTQHQc.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+- Issue with decimal places in total and tip amount. Fixed by limiting 0's with “$%.2f” (we want 2 decimal places).
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Tahsin Provath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
