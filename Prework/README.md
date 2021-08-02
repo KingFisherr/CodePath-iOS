@@ -29,13 +29,14 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 1.0 (First Implementation)
+
 ![](https://i.imgur.com/NqTQHQc.gif)
 
 
 
 ## Notes
 
-- Issue with decimal places in total and tip amount. Fixed by limiting 0's with “$%.2f” (we want 2 decimal places).
+- Issue with decimal places in total and tip amount. Fixed by limiting 0's with “$%.2f” (we wanted 2 decimal places).
 
 ## License
 
