@@ -30,9 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 1.0 (First Implementation)
 
-![](https://i.imgur.com/NqTQHQc.gif)
-
-
+<img src= "https://i.imgur.com/NqTQHQc.gif" width=250><br>
 
 ## Notes
 
