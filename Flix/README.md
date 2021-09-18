@@ -22,7 +22,7 @@ Flix is an app that allows users to browse various movies from the [The Movie Da
 <img src= "https://i.imgur.com/rscZ9o7.gif" width=250><br>
 
 ### Notes
-Various syntax and third party package syntax errors.
+- Various syntax and third party package syntax errors.
 
 ## Flix Part 2
 
@@ -41,8 +41,8 @@ Various syntax and third party package syntax errors.
 <img src= "https://i.imgur.com/aIUFxgA.gif" width=250><br>
 
 ### Notes
-Various syntax and third party package syntax errors fixed, resizing image errors fixed, and API pathway fixed.
-Added release date information onto each movie cell.
+- Various syntax and third party package syntax errors fixed, resizing image errors fixed, and API pathway fixed.
+- Added release date information onto each movie cell.
 
 
 ---
