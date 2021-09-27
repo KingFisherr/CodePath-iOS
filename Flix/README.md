@@ -39,6 +39,3 @@ Flix is an app that allows users to browse various movies from the [The Movie Da
 ### Notes
 - Various syntax and third party package syntax errors fixed, resizing image errors fixed, and API pathway fixed.
 - Added release date information onto each movie cell.
-
-
----
