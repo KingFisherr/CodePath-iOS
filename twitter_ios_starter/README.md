@@ -26,5 +26,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/i8apQKD.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
-Notes
-
+### Notes
+- Some testing issues when logged into wrong account
+- Syntax for override function
