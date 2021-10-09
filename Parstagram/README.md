@@ -8,19 +8,19 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User sees app icon in home screen and styled launch screen. (1pt)
-- [ ] User can sign up to create a new account. (1pt)
-- [ ] User can log in. (1pt)
-- [ ] User can take a photo, add a caption, and post it to the server. (3pt)
-- [ ] User can view the last 20 posts. (4pts)
+- [X] User sees app icon in home screen and styled launch screen. (1pt)
+- [X] User can sign up to create a new account. (1pt)
+- [X] User can log in. (1pt)
+- [X] User can take a photo, add a caption, and post it to the server. (3pt)
+- [X] User can view the last 20 posts. (4pts)
 
 The following **bonus** features are implemented:
 
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past posts infinitely. (2pts)
+- [TBD] User can pull to refresh. (1pt)
+- [TBD] User can load past posts infinitely. (2pts)
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of Parstagram App:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/e6IzL1i.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
